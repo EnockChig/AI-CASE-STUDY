@@ -1,87 +1,30 @@
-# AI-CASE-STUDY #ENOCK MUDZAMIRI 
+#ENOCK MUDZAMIRI 
 MODULE 1 CHALLENGE COLUMBIA UNIVERSITY AI BOOTCAMP-PT-3-34
 
-## Overview and Origin
+Authenticx is a company founded in 2018 by former healthcare executive Amy Brown. The company’s aim is to reveal transformational opportunities in healthcare and address gaps related to using direct customer feedback to make business decisions. Authenticx website notes that the company analyzes and activates customer interaction data at scale by leveraging direct customer feedback and interactions for feedback aggregation to uncover leading indicators affecting patient experiences. Customer interactions that are already occurring such as calls, emails, or chats are integrated using Artificial Intelligence (AI) and Natural Language Processing (NLP) to discern insights from those conversations. These insights might speak to the quality and compliance of the interaction, or they might reveal what it’s like to be that customer or that patient.  Authenticx elevates and escalates the original customer feedback to executives facilitating change in the way companies interact with customers.
+The company’s major clients are the Federal Government, healthcare providers such as insurance companies, hospitals, and research agencies. Authentix uses conversational intelligence (CI), (artificial intelligence + machine learning + natural language processing). By drawing from unstructured data sources to answer questions, the company aggregates customer conversations into one insights platform to categorize and organize previously unstructured data. The company also automates intake and evaluations for streamlined analysis to identify meaningful and statistically valid customer conversations to produce evaluations that capture customer journey insights directly from the voice of the customer to act confidently.
+The CI tools automate the ingestion of customer interactions from various sources like chats, emails, calls, and surveys. Using NLP to evaluate the data, these tools analyze the text, identifying customer sentiment, keywords, and topics within the conversations that are relevant. Machine learning algorithms then categorize and cluster these conversations based on pre-defined criteria. These algorithms also learn to categorize these conversations automatically over time to provide a streamlined analysis. These analyses allow businesses to identify statistically significant trends and recurring themes within customer conversations providing actionable insights. By automating these processes, CI helps businesses to efficiently analyze a large volume of customer feedback to gain valuable insights into their needs, preferences, and pain points.
+The company is a Healthcare based enterprise and the field of CI in healthcare has seen exciting advancements in the last 5-10 years. First, Natural Language Processing (NLP) has become more sophisticated, enabling AI to understand the nuances of human language better. This has allowed for more natural and engaging conversations between humans and machines. It has also enabled more accuracy in data collection for the creation of more efficient models that guide decision making. The other notable development is that Machine Learning (ML) has empowered AI chatbots to learn and adapt over time. Chatbots can now analyze past interactions and improve their responses to future queries. More so, chatbots are no longer solely reactive but are becoming increasingly proactive in their engagement with users. They can now initiate conversations based on user behavior and preferences allowing for proactive customer support and personalized recommendations. Customers can now interact with chatbots on various platforms like websites, messaging apps, and social media. This provides a more seamless and convenient user experience.
+Specific technologies that are used by Authenticx depend on the functionalities offered by their product or service. However, here are some extensive categories of technologies that the company commonly uses. For instance, intent recognition is used to identify a request within their message and sentiment analysis is used to understand the emotional tone of the user's message (positive, negative, neutral). Understanding user intent and sentiment is crucial for providing relevant and helpful responses in customer conversations. NLP allows the AI to analyze user queries, identify their goals, and gauge their emotional tone.
+Even though it is in its initial stages, AI is being developed to recognize and respond to human emotions. This means that it is becoming more emotionally intelligent. It holds promise for creating more empathetic and engaging interactions. Conversational AI has slowly moved beyond text-based interactions and gravitated towards multimodality. Advancements have been made in integrating voice recognition, image processing, and even video capabilities. This allows for richer and more natural communication through various channels. 
+Authenticx is not the only company in this field. There are other larger entities that have a foothold in the industry. Two are of note in this essay Google Health and Artera. Google's approach to Conversational AI in healthcare is still evolving, but here are two ways they are currently using it. Google Search utilizes conversational AI to understand health-related questions better hence improving search results. An example of a specific technology is the use of Google Lens to visually analyze skin conditions or leveraging advanced language models to interpret user queries and deliver more relevant health information [blog.google/technology/health/google-ai-health-information].
+Google Health is also researching a system called Articulate Medical Intelligence Explorer (AMIE) for experimental diagnosis. AMIE uses conversational AI to conduct interviews with patients, simulating a doctor's diagnostic process. This is still in the experimental phase, but it shows promise for improving the accuracy and efficiency of diagnoses in the future.
+The second company is Artera. The Artera platform integrates across a healthcare organization’s tech stack, electronic health record (EHR) and third-party vendors to unify, simplify and orchestrate digital communications into the patient’s preferred channel (texting, email and/or IVR), in 109+ languages. This technology is making staff more efficient, more profitable organizations and a more harmonious patient experience.
+Conversational AI has had a significant impact on businesses in several ways, bringing both positive changes and challenges to consider. Conversational intelligence has enabled businesses to handle repetitive tasks like answering FAQs, scheduling appointments, and providing basic customer support. This frees up human agents to focus on more complex issues, leading to increased efficiency and potentially lower cost. Customer satisfaction is improved as workers dedicate more time to customers that need face to face interaction.
+By also offering 24/7 availability, allowing businesses to address customer inquiries anytime, conversational AI improves responsiveness of organizations. Additionally, chatbots can personalize interactions and provide faster resolutions, potentially boosting customer satisfaction. Businesses that effectively implement conversational AI can project a modern and innovative image. Chatbots can also personalize interactions, potentially leading to a more positive brand perception.
+This is not to say all is perfect with Conversational AI. It still has limited capacity in some respects as this paper will explore further. While AI is improving, chatbots can still struggle with complex questions or nuanced language. This can lead to frustration for users if they do not receive the help they need. 
+As conversational AI collects customer data, businesses need to ensure it is managed ethically and securely. Data breaches or misuse of information can damage trust and brand reputation.
+The rise of conversational AI might lead to job displacement in customer service roles. Businesses need to consider retraining programs or redeployment opportunities for affected employees. Overall, conversational AI offers significant benefits for businesses, but it is crucial to implement it thoughtfully, addressing potential limitations and ethical considerations. This paper examines a few of these.
+Nonetheless, despite these handicaps, one can still measure the success of Conversational AI. The metrics depend on the specific goals a company has set for its AI implementation. However, there are some core metrics that are widely used across the industry. These can be classified as business oriented, customer satisfaction, and technical performance metrics. 
+Goal Completion Rates measure the percentage of times the chatbot successfully resolves a user's query or completes a task without requiring human intervention. Higher completion rates indicate the AI is effectively overseeing user requests.
+Customer Satisfaction (CSAT) metrics gauge user satisfaction with the chatbot interaction. CSAT scores can be obtained through surveys or sentiment analysis of post-conversation feedback. High CSAT scores may indicate a positive user experience.
+For chatbots designed to capture leads, the number of qualified leads generated is a crucial metric. Tracking this helps assess the effectiveness of the AI in driving sales or marketing objectives. Conversational AI can potentially reduce customer service costs by deflecting calls and inquiries to the chatbot. Tracking cost savings helps quantify the return on investment (ROI) of the AI implementation.
+By monitoring these core metrics, companies using conversational AI can gain valuable insights into the effectiveness of their system. This data can then be used to optimize the AI for better performance, improve user experience, and ultimately achieve the desired business outcomes.
+In the ever-growing AI space, I would recommend the company invests in Articulate Medical Intelligence Explorer (AMIE). AMIE uses conversational AI to conduct interviews with patients, simulating a doctor's diagnostic process. The company can also invest more in accessibility solutions. Conversational AI can be used to develop chatbots that provide real-time translation or cater to users with disabilities. For instance, AI assistants can convert speech to text for hearing-impaired users or offer visual aids for those with low vision. Conversational AI can be leveraged to develop new revenue streams. For instance, Authenticx can offer chatbot development services to other businesses or create subscription-based access to their AI platform.
 
-Name of company
-AUTHENTIX  
-When was the company incorporated?
-2018
-Who are the founders of the company?
-Founded by former healthcare executive Amy Brown
-How did the idea for the company (or project) come about?
-Authenticx was founded to analyze and activate customer interaction data at scale. The company wanted to reveal transformational opportunities in healthcare and address gaps related to using direct customer feedback to make business decisions.
-How is the company funded? How much funding have they received?
-???
-## Business Activities
-What specific problem is the company or project trying to solve?
-•	The company leverages direct customer feedback and interactions for feedback aggregation to uncover leading indicators affecting patient experiences.
-•	Company directly elevates and escalates the voices of customers to executives to facilitate change in the way companies interact with customers.
-•	Company uses direct patient “voices” to high level decision makers about their customer experience
-•	Authentix records customer interactions that are already occurring—calls, emails, or chats then uses AI and natural language processing to discern insights from those conversations.
-•	These insights might speak to the quality and compliance of the interaction or they might reveal what it’s like to be that customer or that patient. 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-Healthcare providers
-Insurance companies
-Research agencies
+Authenticx was recognized as number 2 on the Indianapolis Business Journal's 2023 Fast 25 Companies list. This award highlights and recognizes Indiana's fastest-growing private companies, indicating significant revenue growth for Authenticx. The recognition mentions a 390% revenue growth for Authenticx over the past two years suggesting a strong market demand for their services and a successful business model. Authenticx focuses on the healthcare industry, which is increasingly adopting AI solutions for data analysis. This focus contributes to their growth, as they cater to a specific market with a growing need. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-•	Authentix uses conversational intelligence, (artificial intelligence + machine learning + natural language processing).
-•	Leverages unstructured data sources to answer questions.
-•	Aggregation of customer conversations into one insights platform to categorize and organize previously unstructured data.
-•	Automates intake and evaluations for streamlined analysis to identify meaningful and statistically valid customer conversations.
-•	Performs evaluations that capture customer journey insights directly from the voice of the customer to confidently take action.
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-•	Specialized Machine learning for Healthcare is integrated through Authenticx, making it accessible for even non-technical users. 
-•	This allows models to have greater accuracy and compliance with sensitive information by listening at scale.
-•	As users interact with conversational data within the platform, their actions provide a feedback loop to Authenticx’s machine learning models, allowing ongoing and real-time improvements to the system.
-
-## Landscape
-
-* What field is the company in?
-Healthcare
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-AI is already starting to be widely adopted across healthcare.
-
-Use cases include:  
-
-Effective listening with conversational intelligence 
-Natural language processing for text analysis 
-Clinical documentation
-Diagnosis and treatment plans 
-Claims verification 
-Communication with customers 
-Customer support 
-Personalization in messaging 
-Monitoring quality 
-Predictability and analytics 
-Fraud monitoring and prevention
-Understand customer feelings and emotions
-Agent coaching and training
-
-* What are the other major companies in this field?
-Google Health
-Apple Health
-
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-
-* How is your company performing relative to competitors in the same field?
-
-
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for
+References
+blog.google/technology/health/google-ai-health-information.
+https://artera.io/resource/conversation-packs-ebook/
+https://authenticx.com/on-demand-demo/
